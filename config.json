@@ -1,0 +1,6 @@
+{
+    "token": "xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+    "prefix": "&",
+    "endpoint": "https://pokeapi.co/api/v2/pokemon/",
+    "maxpokemon" : "892" 
+}
